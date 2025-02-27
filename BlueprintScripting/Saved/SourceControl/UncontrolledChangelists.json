@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tfnca/OneDrive/Belgeler/Unreal Projects/BlueprintScripting/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tfnca/OneDrive/Belgeler/Unreal Projects/BlueprintScripting/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/K4/6N8JYOTUR4IWTY96F2K6H6.uasset",
+				"C:/Users/tfnca/OneDrive/Belgeler/Unreal Projects/BlueprintScripting/Content/LV_TestMap.umap",
+				"C:/Users/tfnca/OneDrive/Belgeler/Unreal Projects/BlueprintScripting/Content/Scrpiting/LV_TestMap.umap",
+				"C:/Users/tfnca/OneDrive/Belgeler/Unreal Projects/BlueprintScripting/Content/Scrpiting/BP_ExamplePickUp.uasset"
+			]
+		}
+	]
+}
